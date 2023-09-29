@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rover-photos/static/css/main.87f37f50.css",
-    "main.js": "/rover-photos/static/js/main.f4c4826b.js",
+    "main.js": "/rover-photos/static/js/main.5ae4de82.js",
     "index.html": "/rover-photos/index.html",
     "main.87f37f50.css.map": "/rover-photos/static/css/main.87f37f50.css.map",
-    "main.f4c4826b.js.map": "/rover-photos/static/js/main.f4c4826b.js.map"
+    "main.5ae4de82.js.map": "/rover-photos/static/js/main.5ae4de82.js.map"
   },
   "entrypoints": [
     "static/css/main.87f37f50.css",
-    "static/js/main.f4c4826b.js"
+    "static/js/main.5ae4de82.js"
   ]
 }
